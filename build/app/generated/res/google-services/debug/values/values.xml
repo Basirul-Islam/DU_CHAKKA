@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">593798188323-e8l9mg03g9ch081e4co4e813m463bucl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">593798188323</string>
+    <string name="google_api_key" translatable="false">AIzaSyCnsPKVJeAK7bwRHguzPHwUer1Db5XoXDE</string>
+    <string name="google_app_id" translatable="false">1:593798188323:android:7022c1182b7f70cb0c5096</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCnsPKVJeAK7bwRHguzPHwUer1Db5XoXDE</string>
+    <string name="google_storage_bucket" translatable="false">duchakkav2.appspot.com</string>
+    <string name="project_id" translatable="false">duchakkav2</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593798188323",
+    "project_id": "duchakkav2",
+    "storage_bucket": "duchakkav2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593798188323:android:7022c1182b7f70cb0c5096",
+        "android_client_info": {
+          "package_name": "co.bashir.DU_CHAKA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593798188323-e8l9mg03g9ch081e4co4e813m463bucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnsPKVJeAK7bwRHguzPHwUer1Db5XoXDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593798188323-e8l9mg03g9ch081e4co4e813m463bucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
